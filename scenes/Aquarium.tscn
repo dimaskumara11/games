@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c3eg5jckgxlxn"]
+
+[ext_resource type="Script" uid="uid://c7h60t6r2j2yo" path="res://scripts/aquarium.gd" id="1_baxmv"]
+
+[node name="Aquarium" type="Node3D" unique_id=1064918558]
+script = ExtResource("1_baxmv")

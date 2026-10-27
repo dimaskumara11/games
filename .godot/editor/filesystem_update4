@@ -1,0 +1,8 @@
+res://main.gd
+res://scenes/Aquarium.tscn
+res://scenes/aquarium.gd
+res://scenes/Fish.tscn
+res://scenes/fish_controller.gd
+res://scenes/Main.tscn
+res://scripts/main.gd
+res://scripts/camera_orbit.gd

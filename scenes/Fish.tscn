@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bdn5ye23w2bbs"]
+
+[ext_resource type="Script" uid="uid://b5bshua84bsbw" path="res://scripts/fish_controller.gd" id="1_psuch"]
+
+[node name="Fish" type="Node3D" unique_id=269359221]
+script = ExtResource("1_psuch")

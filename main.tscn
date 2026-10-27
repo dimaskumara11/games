@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://bnf8tqkpfrm1e"]
+
+[ext_resource type="Script" uid="uid://dmhupbu1w4k0c" path="res://main.gd" id="1_ig7tw"]
+
+[node name="Main" type="Node3D" unique_id=301552030]
+script = ExtResource("1_ig7tw")
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1288734941]
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=35988233]
+
+[node name="Aquarium" type="Node3D" parent="." unique_id=103682961]
+
+[node name="Water" type="MeshInstance3D" parent="Aquarium" unique_id=273836243]
+
+[node name="Sand" type="MeshInstance3D" parent="Aquarium" unique_id=1679406081]
+
+[node name="Fish" type="Node3D" parent="Aquarium" unique_id=1901361764]
+
+[node name="Plants" type="Node3D" parent="Aquarium" unique_id=678396916]
